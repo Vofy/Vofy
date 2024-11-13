@@ -9,4 +9,4 @@ Student of the bachelor's degree programme Microelectronics and Technology at th
 - [Project](https://github.com/vofy/VUT-FEKT-BPC-MAM-ESP32-Projekt) made in Microprocessors and Microcomputers course (`C`, `ESP32`)
 
 ### Selected secondary school projects
-- [FirestoreNotes](https://github.com/vofy/FirestoreNotes) made in Programming course (`Android`, `Java`, `Google Cloud Firestore`)
+- [FirestoreNotes](https://github.com/vofy/FirestoreNotes) made in Programming course (`Android SDK`, `Java`, `Google Cloud Firestore`)
